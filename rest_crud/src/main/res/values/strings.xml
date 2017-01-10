@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Workshop ITS</string>
+
+    <string name="text_title">Title</string>
+    <string name="text_content">Content</string>
+    <string name="text_edit">Edit</string>
+    <string name="text_delete">Delete</string>
+
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="text_message_delete">Item ini akan di hapus</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    <string name="text_wait">Wait</string>
+
+</resources>
